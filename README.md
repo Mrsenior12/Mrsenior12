@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sailing, Reading Books, and Programing
 - 🌱 I’m currently learning Data Science and Data Visualisation in Python
 - 💞️ I’m looking to collaborate on Some Data Science Projects
-- 📫 How to reach me By sending email
+- 📫 How to reach me? Write awiszniowski00@gmail.com or call +48 570 457 130
 
 <!---
 Mrsenior12/Mrsenior12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
