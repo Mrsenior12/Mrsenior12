@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mrsenior12
+- 👋 Hi, I’m Aleksander
 - 👀 I’m interested in Sailing, Reading Books, and Programing
 - 🌱 I’m currently learning Data Science and Data Visualisation in Python
 - 💞️ I’m looking to collaborate on Some Data Science Projects
