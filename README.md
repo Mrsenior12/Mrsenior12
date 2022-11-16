@@ -4,7 +4,7 @@
     - Power Platform (Power Bi, Power App, DataVerse)
     - Pyhon
     - SQL
-
+- 🛠 Working on Django-Rest API as part of an engineering thesis.
 - 📫 How to reach me? Write awiszniowski00@gmail.com
 
 
