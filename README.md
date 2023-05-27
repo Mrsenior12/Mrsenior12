@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Aleksander
-- 👀 I’m Junior Bi Developer @ Antdata
+- 👀 I’m Docker Developer @PSNC (Poznan Supercomputing and Networking Center)
 - 🌱 I’m currently using and developing:
-    - Power Platform (Power Bi, Power App, DataVerse)
-    - Pyhon
-    - SQL
-- 🛠 Working on Django-Rest API as part of an engineering thesis.
+    - Docker Images
+    - CI/CD pipelines
 - 📫 How to reach me? Write awiszniowski00@gmail.com
 
 
