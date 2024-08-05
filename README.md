@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksander
-- 👀 I’m Docker Developer @PSNC (Poznan Supercomputing and Networking Center)
+- 👀 I’m DevOps Engineer @ PSNC (Poznan Supercomputing and Networking Center)
 - 🌱 I’m currently using and developing:
     - Docker Images
     - CI/CD pipelines
