@@ -4,6 +4,7 @@
     - Docker Images
     - CI/CD pipelines
     - Grafana Dashboards
+    - IaC with Terraform
 - 📫 How to reach me? Write awiszniowski00@gmail.com
 
 # Skils
